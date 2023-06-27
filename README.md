@@ -1,4 +1,4 @@
-# Dark-Light Mode
+# Light/Dark Mode
 
 ![](./)
 
