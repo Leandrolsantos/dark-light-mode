@@ -17,11 +17,11 @@ Aprender como funciona a função de Claro e Escuro, para que seja usados em pro
 
 ### Desafio
 
-Aprimorar mais uma função para projetos usando códigos simples, práticos e funcionais.
+Criar mais uma função para projetos usando códigos simples, práticos e funcionais.
 
 ### Conclusão
 
-Foi um projeto rápidp de realizar, porém muito válido. Agora é mais uma função que irei adicionar nos próximos projetos.
+Foi um projeto rápido de realizar, porém muito válido. Agora é mais uma função que irei adicionar nos próximos projetos.
 
 ### Ferramentas Utilizadas
 
