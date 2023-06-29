@@ -6,7 +6,7 @@
 
 ![](./assets/img/light-darkg.gif)
 
-Deploy: (EM BREVE)
+Deploy: https://dark-light-mode-delta.vercel.app/
 
 ## Sobre
 
